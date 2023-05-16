@@ -1,4 +1,4 @@
-<h2> Hi, I'm ElainaFanBoy (Nanako) !  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi, I'm Nanako ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
 <img align='right' src="https://raw.githubusercontent.com/ElainaFanBoy/Blog/main/assert/avt.png" width="415">
@@ -17,7 +17,7 @@
 [![GitHub ElainaFanBoy](https://img.shields.io/github/stars/ElainaFanBoy?style=social)](https://github.com/ElainaFanBoy)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me ...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me
 
 
 ```Julia
