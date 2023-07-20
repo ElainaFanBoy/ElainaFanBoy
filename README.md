@@ -1,7 +1,7 @@
 <h2><img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"> Hi, I'm Nanako ! <img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
 
 
-<img align='right' src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230720/1.png" width="415">
+<img align='right' src="https://cdn.staticaly.com/gh/ElainaFanBoy/picx-images-hosting@master/20230720/1.png" width="415">
 
 
 <p><img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/2.gif" width="30"> <em>Environmental Engineering Graduated From <a href="http://www.jsjzi.edu.cn">JSJZI</a>！<img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/3.gif" width="30"></br>
