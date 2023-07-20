@@ -1,4 +1,4 @@
-<h2><img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"> Hi, I'm Nanako ! <img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
+<h2><img src="https://cdn.staticaly.com/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"> Hi, I'm Nanako ! <img src="https://cdn.staticaly.com/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
 
 
 <img align='right' src="https://cdn.staticaly.com/gh/ElainaFanBoy/picx-images-hosting@master/20230720/1.png" width="415">
