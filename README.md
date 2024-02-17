@@ -1,10 +1,10 @@
-<h2><img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"> Hi, I'm Nanako ! <img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
+<h2><img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"> Hi, I'm Nanako ! <img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/1.gif" width="50"></h2>
 
 
-<img align='right' src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230720/1.png" width="415">
+<img align='right' src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230720/1.png" width="415">
 
 
-<p><img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/2.gif" width="30"> <em>Environmental Engineering Graduated From <a href="http://www.jsjzi.edu.cn">JSJZI</a>！<img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/3.gif" width="30"></br>
+<p><img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/2.gif" width="30"> <em>Environmental Engineering Graduated From <a href="http://www.jsjzi.edu.cn">JSJZI</a>！<img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/3.gif" width="30"></br>
 </em></p>
 
 [![Bilibili ElainaFanBoy](https://img.shields.io/badge/@ElainaFanBoy-f25d8e?style=flat&logo=bilibili&logoColor=white&link=https://space.bilibili.com/21466311)](https://space.bilibili.com/21466311)
@@ -17,7 +17,7 @@
 [![GitHub ElainaFanBoy](https://img.shields.io/github/stars/ElainaFanBoy?style=social)](https://github.com/ElainaFanBoy)
 
 
-### <img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/4.gif" width="50"> A little more about me
+### <img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/4.gif" width="50"> A little more about me
 
 
 ```Julia
@@ -46,7 +46,7 @@ main :: func(): void {
 ```
 
 
-<img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230719/5.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more !</b> :)</em>
+<img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/5.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more !</b> :)</em>
 
 
 ---
