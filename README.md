@@ -7,7 +7,7 @@
 <p><img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/2.gif" width="30"> <em>Environmental Engineering Graduated From <a href="http://www.jsjzi.edu.cn">JSJZI</a>！<img src="https://cdn.jsdelivr.net/gh/ElainaFanBoy/picx-images-hosting@master/20230719/3.gif" width="30"></br>
 </em></p>
 
-[![Bilibili ElainaFanBoy](https://img.shields.io/badge/@ElainaFanBoy-f25d8e?style=flat&logo=bilibili&logoColor=white&link=https://space.bilibili.com/21466311)](https://space.bilibili.com/21466311)
+[![Bilibili Nanako1026](https://img.shields.io/badge/@Nanako1026-f25d8e?style=flat&logo=bilibili&logoColor=white&link=https://space.bilibili.com/21466311)](https://space.bilibili.com/21466311)
 [![Instagram ElainaFanBoy](https://img.shields.io/badge/@ElainaFanBoy-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/elainafanboy)](https://instagram.com/elainafanboy)
 [![Steam ElainaFanBoy](https://img.shields.io/badge/@ElainaFanBoy-171a21?style=flat&logo=steam&logoColor=white&link=https://steamcommunity.com/id/ElainaFanBoy)](https://steamcommunity.com/id/ElainaFanBoy)
 
