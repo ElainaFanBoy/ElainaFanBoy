@@ -12,7 +12,6 @@
 [![Steam ElainaFanBoy](https://img.shields.io/badge/@ElainaFanBoy-171a21?style=flat&logo=steam&logoColor=white&link=https://steamcommunity.com/id/ElainaFanBoy)](https://steamcommunity.com/id/ElainaFanBoy)
 
 
-[![Twitter: ElainaFanBoy](https://img.shields.io/badge/@ElainaFanBoy233-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ElainaFanBoy233)](https://twitter.com/ElainaFanBoy233)
 [![GitHub ElainaFanBoy](https://img.shields.io/github/followers/ElainaFanBoy?label=followers&style=social)](https://github.com/ElainaFanBoy)
 [![GitHub ElainaFanBoy](https://img.shields.io/github/stars/ElainaFanBoy?style=social)](https://github.com/ElainaFanBoy)
 
